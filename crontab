@@ -1,0 +1,1 @@
+0 0 1 1 * python /home/himdel/cal.dst/dst.py > /var/www/html/dst.ics
